@@ -1,4 +1,4 @@
-- 👋 I'm @JoãoLandsmann, a 17-year-old Web Developer and Data Analyst.
+👋 Hi, I'm João Vitor Landsmann, a 17-year-old Web Developer and Data Analyst.
 
 I have always been very focused, and I intend to turn my passion for technology and programming into my future. 
 I'm looking for opportunities to develop myself professionally and grow as a skilled individual.
