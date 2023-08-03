@@ -3,8 +3,6 @@
 I have always been very focused, and I intend to turn my passion for technology and programming into my future. 
 I'm looking for opportunities to develop myself professionally and grow as a skilled individual.
 
-Beyond my tech journey, here are a few other things about me:
-
 - Animal lover 🐾
 - Amateur volleyball player for the AABB team 🏐
 - Drummer 🥁
