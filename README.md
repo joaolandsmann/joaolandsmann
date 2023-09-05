@@ -9,7 +9,7 @@ I'm looking for opportunities to develop myself professionally and grow as a ski
 - Technology enthusiast 🚀
 - open-source projects contributor 🤝
 
-Languages and technologies I'm familiar with: HTML, CSS, JavaScript, Python, PHP, MySQL, C++.
+Languages and technologies I'm familiar with: HTML, CSS, Bootstrap, JavaScript (REACT, NODE.js), Python, PHP, MySQL, C++.
 
 I'm always on the lookout for new learning and collaborative opportunities. If you want to discuss tech, projects, or any ideas, feel free to get in touch!
 
