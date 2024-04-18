@@ -4,7 +4,6 @@ I have always been very focused, and I intend to turn my passion for technology 
 I'm looking for opportunities to develop myself professionally and grow as a skilled individual.
 
 - Animal lover 🐾
-- Amateur volleyball player for the IFRS team 🏐
 - Drummer 🥁
 - Technology enthusiast 🚀
 - open-source projects contributor 🤝
