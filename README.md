@@ -8,7 +8,7 @@ I'm looking for opportunities to develop myself professionally and grow as a ski
 - Technology enthusiast 🚀
 - open-source projects contributor 🤝
 
-HTML | CSS (Bootstrap) | JavaScript (React, Node.js) | Python (Flask) | JAVA | PHP | SQL | C++
+HTML | CSS (Bootstrap) | JavaScript (React, Node.js) | Python (Flask) | JAVA | PHP | SQL | 
 
 I'm always on the lookout for new learning and collaborative opportunities. If you want to discuss tech, projects, or any ideas, feel free to get in touch!
 
