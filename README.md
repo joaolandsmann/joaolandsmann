@@ -1,4 +1,4 @@
-##👋 Olá, eu sou João Vitor Landsmann, um Desenvolvedor Web e Analista de Dados de 18 anos.
+## Olá, eu sou João Vitor Landsmann, um Desenvolvedor Web e Analista de Dados de 18 anos. 👋
 
 Sempre fui muito focado e pretendo transformar minha paixão por tecnologia e programação no meu futuro. Estou em busca de oportunidades para me desenvolver profissionalmente e crescer como um profissional qualificado.
 
