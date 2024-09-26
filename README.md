@@ -1,14 +1,9 @@
-👋 Hi, I'm João Vitor Landsmann, an 18-year-old Web Developer and Data Analyst.
+👋 Olá, eu sou João Vitor Landsmann, um Desenvolvedor Web e Analista de Dados de 18 anos.
 
-I have always been very focused, and I intend to turn my passion for technology and programming into my future. 
-I'm looking for opportunities to develop myself professionally and grow as a skilled individual.
+Sempre fui muito focado e pretendo transformar minha paixão por tecnologia e programação no meu futuro. Estou em busca de oportunidades para me desenvolver profissionalmente e crescer como um profissional qualificado.
 
-- Animal lover 🐾
-- Drummer 🥁
-- Technology enthusiast 🚀
-- open-source projects contributor 🤝
+Amante dos animais 🐾
+Baterista 🥁
+Bootstrap | JavaScript | Python (Flask, Spark) | PHP | MySQL | Postgres | Docker | AWS
 
-HTML | CSS (Bootstrap) | JavaScript (React, Node.js) | Python (Flask) | JAVA | PHP | SQL | 
-
-I'm always on the lookout for new learning and collaborative opportunities. If you want to discuss tech, projects, or any ideas, feel free to get in touch!
-
+Estou sempre em busca de novas oportunidades de aprendizado e colaboração. Se quiser discutir sobre tecnologia, projetos ou qualquer ideia, fique à vontade para entrar em contato!
