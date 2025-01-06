@@ -1,4 +1,4 @@
-## Olá, eu sou João Vitor Landsmann 👋
+## Olá, eu sou João Vitor Landsmann! 👋
 ### Desenvolvedor Web e Analista de Dados 
 
 Sempre fui muito focado e pretendo transformar minha paixão por tecnologia e programação no meu futuro. Estou em busca de oportunidades para me desenvolver e crescer como um profissional qualificado.
