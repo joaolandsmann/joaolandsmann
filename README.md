@@ -9,8 +9,14 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas 
 - 🥁 Baterista nas horas vagas  
 
 ### Tecnologias & Ferramentas  
-💻 **Desenvolvimento Web & Backend:** `JavaScript (Node.js, React)`, `PHP`, `Python (Flask, Spark)`, `Bootstrap`  
-🗄  **Banco de Dados:** `SQL (MySQL, PostgreSQL, Oracle Apex)`, `NoSQL (MongoDB, Redis)`  
-☁️ **Infraestrutura & Cloud:** `Docker`, `AWS`, `Oracle Cloud`  
+💻 **Desenvolvimento Web & Backend:**  
+&nbsp;&nbsp;&nbsp;&nbsp;`JavaScript (Node.js, React)`, `PHP`, `Python (Flask, Spark)`, `Bootstrap`  
+
+🗄️ **Banco de Dados:**  
+&nbsp;&nbsp;&nbsp;&nbsp;`SQL (MySQL, PostgreSQL, Oracle Apex)`, `NoSQL (MongoDB, Redis)`  
+
+☁️ **Infraestrutura & Cloud:**  
+&nbsp;&nbsp;&nbsp;&nbsp;`Docker`, `AWS`, `Oracle Cloud`  
+ 
 
 Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Se quiser conversar sobre tecnologia, projetos ou ideias inovadoras, sinta-se à vontade para entrar em contato! 🚀  
