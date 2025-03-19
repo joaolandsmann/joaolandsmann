@@ -2,8 +2,6 @@
 ### Desenvolvedor Web & Analista de Dados  
 
 Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas habilidades e transformar esse interesse em um futuro promissor. Meu objetivo é crescer como um profissional qualificado, explorando novas oportunidades e desafios no desenvolvimento de software e análise de dados.  
-  
-- 🥁 Baterista nas horas vagas
 
 ### Tecnologias & Ferramentas  
 💻 **Front-end e Back-end:**  
