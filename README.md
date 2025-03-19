@@ -9,11 +9,11 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas 
 - 🥁 Baterista nas horas vagas  
 
 ### Tecnologias & Ferramentas  
-💻 **Desenvolvimento Web & Backend:**  
+💻 **Front-end e Back-end:**  
 &nbsp;&nbsp;&nbsp;&nbsp;`JavaScript (Node.js, React)`, `PHP`, `Python (Flask, Spark)`, `Bootstrap`  
 
 🗄️ **Banco de Dados:**  
-&nbsp;&nbsp;&nbsp;&nbsp;`SQL (MySQL, PostgreSQL, Oracle Apex)`, `NoSQL (MongoDB, Redis)`  
+&nbsp;&nbsp;&nbsp;&nbsp;`SQL (MySQL, PostgreSQL, Oracle Apex)`  
 
 ☁️ **Infraestrutura & Cloud:**  
 &nbsp;&nbsp;&nbsp;&nbsp;`Docker`, `AWS`, `Oracle Cloud`  
