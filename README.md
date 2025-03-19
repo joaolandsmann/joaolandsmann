@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas 
 &nbsp;&nbsp;&nbsp;&nbsp;`SQL (MySQL, PostgreSQL, Oracle Apex)`  
 
 ☁️ **Infraestrutura & Cloud:**  
-&nbsp;&nbsp;&nbsp;&nbsp;`Docker`, `AWS`, `Oracle Cloud`  
+&nbsp;&nbsp;&nbsp;&nbsp;`AWS`, `Oracle Cloud`  
  
 
 Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Se quiser conversar sobre tecnologia, projetos ou ideias inovadoras, sinta-se à vontade para entrar em contato! 🚀  
