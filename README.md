@@ -1,11 +1,16 @@
-## Olá, eu sou João Vitor Landsmann! 👋
-### Desenvolvedor Web e Analista de Dados 
+## Olá, eu sou João Vitor Landsmann! 👋  
+### Desenvolvedor Web & Analista de Dados  
 
-Sempre fui muito focado e pretendo transformar minha paixão por tecnologia e programação no meu futuro. Estou em busca de oportunidades para me desenvolver e crescer como um profissional qualificado.
+Sou apaixonado por tecnologia e programação, sempre buscando aprimorar minhas habilidades e transformar esse interesse em um futuro promissor. Meu objetivo é crescer como um profissional qualificado, explorando novas oportunidades e desafios no desenvolvimento de software e análise de dados.  
 
-- Amante dos animais 🐾
-- Baterista 🥁
-  
-`Bootstrap` | `JavaScript` | `Python (Flask, Spark)` | `PHP` | `MySQL` | `Postgres` | `Docker` | `AWS` | `Cloud` 
+### Sobre mim  
+- 🎯 Profissional focado e em constante aprendizado  
+- 🐾 Amante dos animais  
+- 🥁 Baterista nas horas vagas  
 
-Estou sempre em busca de novas oportunidades de aprendizado e colaboração. Se quiser discutir sobre tecnologia, projetos ou qualquer ideia, fique à vontade para entrar em contato!
+### Tecnologias & Ferramentas  
+💻 **Desenvolvimento Web & Backend:** `JavaScript (Node.js, React)`, `PHP`, `Python (Flask, Spark)`, `Bootstrap`  
+🗄 **Banco de Dados:** `SQL (MySQL, PostgreSQL, Oracle Apex)`, `NoSQL (MongoDB, Redis)`  
+☁️ **Infraestrutura & Cloud:** `Docker`, `AWS`, `Oracle Cloud`  
+
+Estou sempre aberto a novas oportunidades, colaborações e trocas de conhecimento. Se quiser conversar sobre tecnologia, projetos ou ideias inovadoras, sinta-se à vontade para entrar em contato! 🚀  
